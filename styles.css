@@ -7,14 +7,17 @@ body {
     display:flex;
     padding:10px;
     margin:10px;
+    margin-bottom: 30px;
     background: darkgray;
+    border-radius: 5px;
+    box-shadow: 5px 10px gray;
 }
 
 .assignment img{
     width:200px;
     border: 2px solid black;
     margin-right:20px;
-    
+    border-radius: 5px;
 }
 
 h1 {
